@@ -116,4 +116,4 @@ CREATE TABLE movies (
 This project is under the MIT license.
 
 ## Author
-- **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)# FilmCRUD
+- **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
