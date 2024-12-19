@@ -1,6 +1,6 @@
 # FilmCRUD
 
-![Banner](./assets/github-banner.png)
+<img src="./assets/github-banner.png" alt="banner" style="border-radius: 15px;"/>
 
 A web-based movie management system that allows users to Create, Read, Update, and Delete movie entries using PHP and MySQL.
 
